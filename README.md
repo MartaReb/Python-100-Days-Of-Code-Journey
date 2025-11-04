@@ -19,3 +19,4 @@ The goal of this repo is to document my learning journey by building **100 Pytho
 - [x] [Day 2](https://github.com/MartaReb/Python-100days-Of-Code-Journey/tree/main/Day%2002) - Understanding data types and how to manipulate string
 - [x] [Day 3](https://github.com/MartaReb/Python-100days-Of-Code-Journey/tree/main/Day%2003) - Control flow and logical operators
 - [x] [Day 4](https://github.com/MartaReb/Python-100days-Of-Code-Journey/tree/main/Day%2004) - Randomisation and Python lists
+- [x] [Day 5](https://github.com/MartaReb/Python-100days-Of-Code-Journey/tree/main/Day%2005) - Python Loops
