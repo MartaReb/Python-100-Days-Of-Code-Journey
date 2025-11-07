@@ -21,3 +21,4 @@ The goal of this repo is to document my learning journey by building **100 Pytho
 - [x] [Day 4](https://github.com/MartaReb/Python-100days-Of-Code-Journey/tree/main/Day%2004) - Randomisation and Python lists
 - [x] [Day 5](https://github.com/MartaReb/Python-100days-Of-Code-Journey/tree/main/Day%2005) - Python Loops
 - [x] [Day 6](https://github.com/MartaReb/Python-100days-Of-Code-Journey/tree/main/Day%2006) - Python Functions & Karel
+- [x] [Day 7](https://github.com/MartaReb/Python-100days-Of-Code-Journey/tree/main/Day%2007) - Hangman
