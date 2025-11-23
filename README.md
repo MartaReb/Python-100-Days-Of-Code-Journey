@@ -21,7 +21,8 @@ The goal of this repo is to document my learning journey by building **100 Pytho
 - [x] [Day 4](https://github.com/MartaReb/Python-100days-Of-Code-Journey/tree/main/Day%2004) - Randomisation And Python lists
 - [x] [Day 5](https://github.com/MartaReb/Python-100days-Of-Code-Journey/tree/main/Day%2005) - Python Loops
 - [x] [Day 6](https://github.com/MartaReb/Python-100days-Of-Code-Journey/tree/main/Day%2006) - Python Functions & Karel
-- [x] [Day 7](https://github.com/MartaReb/Python-100days-Of-Code-Journey/tree/main/Day%2007) - Hangman
+- [x] [Day 7](https://github.com/MartaReb/Python-100days-Of-Code-Journey/tree/main/Day%2007) - Hangman Project
 - [x] [Day 8](https://github.com/MartaReb/Python-100-Days-Of-Code-Journey/tree/main/Day%2008) - Function Parameters & Caesar Cipher
 - [x] [Day 9](https://github.com/MartaReb/Python-100-Days-Of-Code-Journey/tree/main/Day%2009) - Dictionaries, Nesting And The Secret Auction
 - [x] [Day 10](https://github.com/MartaReb/Python-100-Days-Of-Code-Journey/tree/main/Day%2010) - Functions With Outputs
+- [x] [Day 11](https://github.com/MartaReb/Python-100-Days-Of-Code-Journey/tree/main/Day%2011) - The Blackjack Capstone Project
