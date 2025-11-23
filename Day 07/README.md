@@ -1,4 +1,4 @@
-## 🗓️ Day 7 - Hangman
+## 🗓️ Day 7 - Hangman Project
 
 ### 🔑 Topics Covered
 - How to break a complex problem down into a flow chart
