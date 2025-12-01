@@ -27,3 +27,4 @@ The goal of this repo is to document my learning journey by building **100 Pytho
 - [x] [Day 10](https://github.com/MartaReb/Python-100-Days-Of-Code-Journey/tree/main/Day%2010) - Functions With Outputs
 - [x] [Day 11](https://github.com/MartaReb/Python-100-Days-Of-Code-Journey/tree/main/Day%2011) - The Blackjack Capstone Project
 - [x] [Day 12](https://github.com/MartaReb/Python-100-Days-Of-Code-Journey/tree/main/Day%2012) - Scope & Number Guessing Game
+- [x] [Day 13](https://github.com/MartaReb/Python-100-Days-Of-Code-Journey/tree/main/Day%2013) - Debugging: How To Find And Fix Errors In Your Code
