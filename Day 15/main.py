@@ -33,19 +33,15 @@ resources = {
 money_in_machine = 0
 
 def check_resources(choice):
-    if resources["water"] < MENU[choice]["ingredients"]["water"]:
-        print("Sorry there is not enough water.")
-        exit()
-    if resources["milk"] < MENU[choice]["ingredients"]["milk"]:
-        print("Sorry there is not enough milk.")
-        exit()
-    if resources["coffee"] < MENU[choice]["ingredients"]["coffee"]:
-        print("Sorry there is not enough coffee.")
-        exit()
+    for item, amount in MENU[choice]["ingredients"].items():
+        if resources[item] < amount:
+            print(f"Sorry, not enough {item}.")
+            return False
+    return True
 
 def print_report():
     print(f"Water: {resources['water']}ml")
-    print(f"Milk: {resources.['milk']}ml")
+    print(f"Milk: {resources['milk']}ml")
     print(f"Coffee: {resources['coffee']}g")
     print(f"Money: ${money_in_machine}")
 
@@ -61,8 +57,9 @@ while True:
     elif user_choose == "report":
         print_report()
         continue
-    elif user_choose == "espresso" or user_choose == "latte" or user_choose == "cappuccino":
-        check_resources(user_choose)
+    elif user_choose in MENU:
+        if not check_resources(user_choose):
+            continue
 
         print("Please insert coins.")
         quarters = int(input("How many quarters? > "))
@@ -75,3 +72,17 @@ while True:
         if money < cost:
             print("Sorry that's not enough money. Money refunded.")
             continue
+        else:
+            change = round(money - cost, 2)
+            if change > 0:
+                print(f"Here is ${change} in change.")
+            money_in_machine += cost
+
+            # Subtracting components
+            for item, amount in MENU[user_choose]["ingredients"].items():
+                resources[item] -= amount
+
+            print(f"Here is your {user_choose} ☕️. Enjoy!")
+
+    else:
+        print("Unknown command.")
