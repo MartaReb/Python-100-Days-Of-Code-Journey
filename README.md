@@ -13,7 +13,7 @@ The goal of this repo is to document my learning journey by building **100 Pytho
 - Strengthen my Python skills through hands-on projects  
 - Learn automation, data science, web development, games, and app creation  
 
-## 📚 Beginner 
+### 📚 Beginner 
 
 - [x] [Day 1](https://github.com/MartaReb/Python-100days-Of-Code-Journey/tree/main/Day%2001) - Working With Variables In Python To Manage Data
 - [x] [Day 2](https://github.com/MartaReb/Python-100days-Of-Code-Journey/tree/main/Day%2002) - Understanding Data Types And How To Manipulate String
@@ -29,3 +29,7 @@ The goal of this repo is to document my learning journey by building **100 Pytho
 - [x] [Day 12](https://github.com/MartaReb/Python-100-Days-Of-Code-Journey/tree/main/Day%2012) - Scope & Number Guessing Game
 - [x] [Day 13](https://github.com/MartaReb/Python-100-Days-Of-Code-Journey/tree/main/Day%2013) - Debugging: How To Find And Fix Errors In Your Code
 - [x] [Day 14](https://github.com/MartaReb/Python-100-Days-Of-Code-Journey/tree/main/Day%2014) - Higher Lower Game
+
+### 📚 Intermediate
+
+- [x] [Day 15](https://github.com/MartaReb/Python-100-Days-Of-Code-Journey/tree/main/Day%2015) - The Coffee Machine Project
