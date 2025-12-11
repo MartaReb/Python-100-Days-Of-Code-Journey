@@ -33,3 +33,4 @@ The goal of this repo is to document my learning journey by building **100 Pytho
 ### 📚 Intermediate
 
 - [x] [Day 15](https://github.com/MartaReb/Python-100-Days-Of-Code-Journey/tree/main/Day%2015) - The Coffee Machine Project
+- [x] [Day 16](https://github.com/MartaReb/Python-100-Days-Of-Code-Journey/tree/main/Day%2016) - Object Oriented Programming (OOP)
